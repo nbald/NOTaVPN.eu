@@ -88,7 +88,7 @@
   "how.step2.desc": "Connect via Zoom, Meet, WhatsApp, or any video app.",
   "how.step3.title": "Browse freely",
   "how.step3.desc": "The remote browser shares its screen. You see a video feed.",
-  "how.technical": "DPI sees SRTP/WebRTC to a known service. Blocking it disables all video calls.",
+  "how.technical": "Your ISP sees a video call to a known service. Blocking it disables all video calls.",
 
   "pricing.title": "Pricing",
   "pricing.subtitle": "Transparent, like your government's data collection policy should be.",
@@ -121,7 +121,7 @@
   "pricing.parlementaire.f4": "Free for anyone who voted for the VPN ban",
   "pricing.parlementaire.cta": "Contact us",
 
-  "pricing.footer": "All plans include a free copy of the French Constitution, bookmarked at Article 11.",
+  "pricing.footer": "All plans include a free copy of the Declaration of the Rights of Man and of the Citizen, bookmarked at Article 11.",
 
   "testimonials.title": "What They Say",
   "testimonials.subtitle": "Feedback from our early users.",

@@ -88,7 +88,7 @@
   "how.step2.desc": "Connectez-vous via Zoom, Meet, WhatsApp ou n'importe quelle app vidéo.",
   "how.step3.title": "Naviguez librement",
   "how.step3.desc": "Le navigateur distant partage son écran. Vous voyez un flux vidéo.",
-  "how.technical": "Le DPI voit du SRTP/WebRTC vers un service connu. Le bloquer désactive tous les appels vidéo.",
+  "how.technical": "Votre FAI voit un appel vidéo vers un service connu. Le bloquer désactive tous les appels vidéo.",
 
   "pricing.title": "Tarifs",
   "pricing.subtitle": "Transparents, comme devrait l'être la politique de collecte de données de votre gouvernement.",
@@ -121,7 +121,7 @@
   "pricing.parlementaire.f4": "Gratuit pour quiconque a voté l'interdiction des VPN",
   "pricing.parlementaire.cta": "Nous contacter",
 
-  "pricing.footer": "Tous les plans incluent une copie gratuite de la Constitution française, avec un signet à l'Article 11.",
+  "pricing.footer": "Tous les plans incluent une copie gratuite de la Déclaration des droits de l'homme et du citoyen, avec un signet à l'Article 11.",
 
   "testimonials.title": "Ce qu'ils en disent",
   "testimonials.subtitle": "Retours de nos premiers utilisateurs.",
