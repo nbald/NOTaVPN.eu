@@ -129,17 +129,17 @@
   "testimonial.1.author": "Jean-Pierre M.",
   "testimonial.1.role": "Ingénieur informaticien, Grenoble",
 
-  "testimonial.2.text": "Mon université ne peut pas se payer les abonnements aux revues. J'utilisais un VPN pour accéder aux articles de recherche. Maintenant mon VPN bloque les sites aussi (ordonnance du tribunal, juillet 2025). Avec NOTaVPN, je peux lire la science que mes propres impôts ont financée. L'ironie me nourrit.",
-  "testimonial.2.author": "Dr. Farid B.",
-  "testimonial.2.role": "Chercheur, Université de Strasbourg",
+  "testimonial.2.text": "Mon ami belge peut consulter librement des contenus éducatifs sur le corps humain. Moi, on me demande ma carte d'identité. Grâce à NOTaVPN, j'ai enfin accès aux mêmes ressources pédagogiques que lui.",
+  "testimonial.2.author": "Lucas M.",
+  "testimonial.2.role": "Autodidacte motivé, 14 ans, Lyon",
 
-  "testimonial.3.text": "Grâce à NOTaVPN, je peux enfin accéder à la page Facebook de C'est pas sorcier pour suivre Fred et Jamy avec mes copains. Merci de protéger mon accès à la science !",
-  "testimonial.3.author": "Emma, 9 ans",
-  "testimonial.3.role": "Élève, Nantes",
+  "testimonial.3.text": "Mon université ne peut pas se payer les abonnements aux revues. J'utilisais un VPN pour accéder aux articles de recherche. Maintenant mon VPN bloque les sites aussi (ordonnance du tribunal, juillet 2025). Avec NOTaVPN, je peux lire la science que mes propres impôts ont financée. L'ironie me nourrit.",
+  "testimonial.3.author": "Dr. Farid B.",
+  "testimonial.3.role": "Chercheur, Université de Strasbourg",
 
-  "testimonial.4.text": "Mon ami belge peut consulter librement des contenus éducatifs sur le corps humain. Moi, on me demande ma carte d'identité. Grâce à NOTaVPN, j'ai enfin accès aux mêmes ressources pédagogiques que lui.",
-  "testimonial.4.author": "Lucas M.",
-  "testimonial.4.role": "Autodidacte motivé, 14 ans, Lyon",
+  "testimonial.4.text": "Grâce à NOTaVPN, je peux enfin accéder à la page Facebook de C'est pas sorcier pour suivre Fred et Jamy avec mes copains. Merci de protéger mon accès à la science !",
+  "testimonial.4.author": "Emma, 9 ans",
+  "testimonial.4.role": "Élève, Nantes",
 
   "testimonial.5.text": "Interdire les VPN ? Mdrrr, vous êtes tous tombés dans le panneau, réfléchissez un peu, aucune démocratie n'oserait faire ça. Du moins, c'est ce que je croyais. Maintenant, j'utilise NOTaVPN.",
   "testimonial.5.author": "Xavier Niel",
@@ -167,7 +167,7 @@
   "faq.6.a": "On ne peut pas fuiter ce qu'on ne collecte pas. En France, les fuites de données personnelles sont devenues quotidiennes : Free (19 millions de comptes), France Travail (numéros de sécurité sociale), Viamedis, hôpitaux, mutuelles — la liste s'allonge chaque jour. Et quand ce ne sont pas des hackers, ce sont directement des agents de l'État : des fonctionnaires de la DGFIP ont transmis les données fiscales de contribuables à des malfaiteurs, qui s'en sont servis pour organiser séquestrations et agressions physiques. En 2026, chaque base de données est une cible. Notre approche : ne rien collecter, ne rien stocker, n'avoir rien à fuiter.",
 
   "faq.7.q": "Qui êtes-vous ?",
-  "faq.7.a": "Nous sommes un projet satirique. NOTaVPN n'est pas encore un vrai produit — mais il n'y a aucune difficulté technique à le concrétiser. C'est l'affaire de quelques jours de développement. Ce site existe pour illustrer l'absurdité d'interdire les VPN dans une démocratie. Quand la solution de contournement est un simple appel vidéo, peut-être que le problème n'est pas la technologie — c'est la loi. Liens : La Quadrature du Net, EFF, Signal Foundation.",
+  "faq.7.a": "Il s'agit d'un projet satirique initié par Nicolas Baldeck, entrepreneur du numérique. NOTaVPN n'est pas encore un vrai produit — mais il n'y a aucune difficulté technique à le concrétiser. C'est l'affaire de quelques jours de développement. Ce site existe pour illustrer l'absurdité d'interdire les VPN dans une démocratie. Quand la solution de contournement est un simple appel vidéo, peut-être que le problème n'est pas la technologie — c'est la loi. Liens : La Quadrature du Net, EFF, Signal Foundation.",
 
   "disclaimer.title": "Avertissement",
   "disclaimer.text": "NOTaVPN est un projet satirique. Ce site n'est pas un vrai produit — mais il n'y a aucune difficulté technique à le concrétiser. C'est l'affaire de quelques jours de développement. Il existe pour illustrer l'absurdité croissante de la régulation d'internet en France, au Royaume-Uni et dans l'Union européenne.",

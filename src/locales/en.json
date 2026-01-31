@@ -129,17 +129,17 @@
   "testimonial.1.author": "Jean-Pierre M.",
   "testimonial.1.role": "Software engineer, Grenoble",
 
-  "testimonial.2.text": "My university can't afford journal subscriptions. I used to use a VPN to access research papers. Now my VPN blocks the sites too (court order, July 2025). With NOTaVPN, I can read the science my own tax-funded research produced. The irony sustains me.",
-  "testimonial.2.author": "Dr. Farid B.",
-  "testimonial.2.role": "Researcher, University of Strasbourg",
+  "testimonial.2.text": "My Belgian friend can freely browse educational content about the human body. Me, I'm asked for my ID card. Thanks to NOTaVPN, I finally have access to the same educational resources as him.",
+  "testimonial.2.author": "Lucas M.",
+  "testimonial.2.role": "Motivated self-learner, 14 years old, Lyon",
 
-  "testimonial.3.text": "Thanks to NOTaVPN, I can finally access the C'est pas sorcier Facebook page to follow Fred and Jamy with my friends. Thank you for protecting my access to science!",
-  "testimonial.3.author": "Emma, 9 years old",
-  "testimonial.3.role": "Student, Nantes",
+  "testimonial.3.text": "My university can't afford journal subscriptions. I used to use a VPN to access research papers. Now my VPN blocks the sites too (court order, July 2025). With NOTaVPN, I can read the science my own tax-funded research produced. The irony sustains me.",
+  "testimonial.3.author": "Dr. Farid B.",
+  "testimonial.3.role": "Researcher, University of Strasbourg",
 
-  "testimonial.4.text": "My Belgian friend can freely browse educational content about the human body. Me, I'm asked for my ID card. Thanks to NOTaVPN, I finally have access to the same educational resources as him.",
-  "testimonial.4.author": "Lucas M.",
-  "testimonial.4.role": "Motivated self-learner, 14 years old, Lyon",
+  "testimonial.4.text": "Thanks to NOTaVPN, I can finally access the C'est pas sorcier Facebook page to follow Fred and Jamy with my friends. Thank you for protecting my access to science!",
+  "testimonial.4.author": "Emma, 9 years old",
+  "testimonial.4.role": "Student, Nantes",
 
   "testimonial.5.text": "Ban VPNs? Lmao, you all fell for it, think about it for a second — no democracy would dare do that. At least, that's what I thought. Now I use NOTaVPN.",
   "testimonial.5.author": "Xavier Niel",
@@ -167,7 +167,7 @@
   "faq.6.a": "You can't leak what you don't collect. In France, personal data breaches have become a daily occurrence: Free (19 million accounts), France Travail (social security numbers), Viamedis, hospitals, insurance companies — the list grows every day. And when it's not hackers, it's government employees themselves: DGFIP tax agents have leaked taxpayers' fiscal data to criminals, who used it to organize kidnappings and physical assaults. In 2026, every database is a target. Our approach: collect nothing, store nothing, have nothing to leak.",
 
   "faq.7.q": "Who are you?",
-  "faq.7.a": "We are a satirical project. NOTaVPN is not a real product yet — but there is no technical difficulty in building it. It's a matter of a few days of development. This site exists to make a point about the absurdity of banning VPNs in a democracy. When the workaround is a simple video call, maybe the problem isn't the technology — it's the law. Links: La Quadrature du Net, EFF, Signal Foundation.",
+  "faq.7.a": "This is a satirical project initiated by Nicolas Baldeck, a digital entrepreneur. NOTaVPN is not a real product yet — but there is no technical difficulty in building it. It's a matter of a few days of development. This site exists to make a point about the absurdity of banning VPNs in a democracy. When the workaround is a simple video call, maybe the problem isn't the technology — it's the law. Links: La Quadrature du Net, EFF, Signal Foundation.",
 
   "disclaimer.title": "Disclaimer",
   "disclaimer.text": "NOTaVPN is a satirical project. This site is not a real product — but there is no technical difficulty in making it real. It's a matter of a few days of development. It exists to illustrate the growing absurdity of internet regulation in France, the UK, and the European Union.",
