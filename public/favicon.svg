@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Magritte-style pipe -->
+  <rect width="64" height="64" rx="12" fill="#0a0a0f"/>
+  <!-- Pipe bowl -->
+  <path d="M15 38 C15 28 22 22 32 22 C42 22 49 28 49 38 L49 40 C49 42 47 44 45 44 L19 44 C17 44 15 42 15 40 Z" stroke="#6366f1" stroke-width="2" fill="none"/>
+  <!-- Pipe stem -->
+  <path d="M45 36 L56 36 C58 36 58 32 56 32 L45 32" stroke="#6366f1" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Smoke -->
+  <path d="M28 22 C28 16 24 14 28 10" stroke="#6366f1" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <path d="M36 22 C36 14 32 12 36 8" stroke="#6366f1" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <!-- Strike-through (not a pipe / not a VPN) -->
+  <line x1="12" y1="52" x2="52" y2="12" stroke="#ef4444" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+</svg>
