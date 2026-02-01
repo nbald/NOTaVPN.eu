@@ -33,10 +33,6 @@
   "feature.5.desc": "We looked at how France handles personal data in 2026 and chose a simpler approach: we don't collect any.",
   "feature.6.title": "Chat Control-Proof",
   "feature.6.desc": "No text to scan, no file to intercept. Just pixels on a screen. The EU would need to OCR every video call in Europe. In real-time. Good luck.",
-  "feature.7.title": "Parliament-Proof Architecture",
-  "feature.7.desc": "Each new regulation makes us more relevant. Thanks, National Assembly.",
-  "feature.8.title": "Signal Can Leave. We Can't.",
-  "feature.8.desc": "Signal threatened to leave the EU over Chat Control. We use WhatsApp/Zoom/Meet — apps too big to ban. Our infrastructure is their infrastructure.",
 
   "access.title": "Access Without Borders",
   "access.subtitle": "The internet was designed to be open. We're restoring the original vision.",
@@ -49,7 +45,7 @@
   "access.sports.title": "Live Sports",
   "access.sports.desc": "Watch the match from wherever it's broadcasting. The beautiful game shouldn't require a €300/month subscription bundle and a law degree to figure out which platform has the rights this season.",
   "access.internet.title": "The Entire Internet",
-  "access.internet.desc": "No geo-restrictions. No content blocks. No 'this content is not available in your country.' The internet was designed to be borderless. Your friend's computer doesn't have these restrictions.",
+  "access.internet.desc": "No geo-restrictions. No content blocks. No 'this content is not available in your country.' The internet was designed to be borderless.",
   "access.footnote": "In July 2025, a French court ordered VPN providers to block sports streaming sites. NOTaVPN is not a VPN. We don't block anything. We just make video calls.",
 
   "comparison.title": "Why Not a VPN?",
@@ -129,21 +125,17 @@
   "testimonial.1.author": "Jean-Pierre M.",
   "testimonial.1.role": "Software engineer, Grenoble",
 
-  "testimonial.2.text": "My Belgian friend can freely browse educational content about the human body. Me, I'm asked for my ID card. Thanks to NOTaVPN, I finally have access to the same educational resources as him.",
-  "testimonial.2.author": "Lucas M.",
-  "testimonial.2.role": "Motivated self-learner, 14 years old, Lyon",
+  "testimonial.2.text": "Ban VPNs? Lmao, you all fell for it, think about it for a second — no democracy would dare do that. At least, that's what I thought. Now I use NOTaVPN.",
+  "testimonial.2.author": "Xavier Niel",
+  "testimonial.2.role": "Concerned citizen, Paris",
 
-  "testimonial.3.text": "My university can't afford journal subscriptions. I used to use a VPN to access research papers. Now my VPN blocks the sites too (court order, July 2025). With NOTaVPN, I can read the science my own tax-funded research produced. The irony sustains me.",
-  "testimonial.3.author": "Dr. Farid B.",
-  "testimonial.3.role": "Researcher, University of Strasbourg",
+  "testimonial.3.text": "My Belgian friend can freely browse educational content about the human body. Me, I'm asked for my ID card. Thanks to NOTaVPN, I finally have access to the same educational resources as him.",
+  "testimonial.3.author": "Lucas M.",
+  "testimonial.3.role": "Motivated self-learner, 14 years old, Lyon",
 
-  "testimonial.4.text": "Thanks to NOTaVPN, I can finally access the C'est pas sorcier Facebook page to follow Fred and Jamy with my friends. Thank you for protecting my access to science!",
-  "testimonial.4.author": "Emma, 9 years old",
-  "testimonial.4.role": "Student, Nantes",
-
-  "testimonial.5.text": "Ban VPNs? Lmao, you all fell for it, think about it for a second — no democracy would dare do that. At least, that's what I thought. Now I use NOTaVPN.",
-  "testimonial.5.author": "Xavier Niel",
-  "testimonial.5.role": "Concerned citizen, Paris",
+  "testimonial.4.text": "My university can't afford journal subscriptions. I used to use a VPN to access research papers. Now my VPN blocks the sites too (court order, July 2025). With NOTaVPN, I can read the science my own tax-funded research produced. The irony sustains me.",
+  "testimonial.4.author": "Dr. Farid B.",
+  "testimonial.4.role": "Researcher, University of Strasbourg",
 
   "faq.title": "Frequently Asked Questions",
   "faq.subtitle": "Everything you didn't dare ask your MP.",

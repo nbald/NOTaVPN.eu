@@ -33,10 +33,6 @@
   "feature.5.desc": "On a vu comment la France gère les données personnelles en 2026 et on a choisi une approche plus simple : on ne collecte rien.",
   "feature.6.title": "Résistant au Chat Control",
   "feature.6.desc": "Pas de texte à scanner, pas de fichier à intercepter. Juste des pixels sur un écran. L'UE devrait faire de l'OCR sur chaque appel vidéo en Europe. En temps réel. Bonne chance.",
-  "feature.7.title": "Architecture anti-Parlement",
-  "feature.7.desc": "Chaque nouvelle régulation nous rend plus pertinents. Merci, Assemblée nationale.",
-  "feature.8.title": "Signal peut partir. Pas nous.",
-  "feature.8.desc": "Signal a menacé de quitter l'UE à cause du Chat Control. Nous utilisons WhatsApp/Zoom/Meet — des apps trop grosses pour être interdites. Notre infrastructure, c'est la leur.",
 
   "access.title": "Accès sans frontières",
   "access.subtitle": "L'internet a été conçu pour être ouvert. On restaure la vision originale.",
@@ -49,7 +45,7 @@
   "access.sports.title": "Sport en direct",
   "access.sports.desc": "Regardez le match là où il est diffusé. Le beau jeu ne devrait pas nécessiter un abonnement à 300 €/mois et un diplôme de droit pour comprendre quelle plateforme a les droits cette saison.",
   "access.internet.title": "L'internet en entier",
-  "access.internet.desc": "Pas de géo-restrictions. Pas de blocages de contenu. Pas de « ce contenu n'est pas disponible dans votre pays ». Internet a été conçu pour être sans frontières. L'ordinateur de votre ami n'a pas ces restrictions.",
+  "access.internet.desc": "Pas de géo-restrictions. Pas de blocages de contenu. Pas de « ce contenu n'est pas disponible dans votre pays ». Internet a été conçu pour être sans frontières.",
   "access.footnote": "En juillet 2025, un tribunal français a ordonné aux fournisseurs de VPN de bloquer les sites de streaming sportif. NOTaVPN n'est pas un VPN. On ne bloque rien. On fait juste des appels vidéo.",
 
   "comparison.title": "Pourquoi pas un VPN ?",
@@ -129,21 +125,17 @@
   "testimonial.1.author": "Jean-Pierre M.",
   "testimonial.1.role": "Ingénieur informaticien, Grenoble",
 
-  "testimonial.2.text": "Mon ami belge peut consulter librement des contenus éducatifs sur le corps humain. Moi, on me demande ma carte d'identité. Grâce à NOTaVPN, j'ai enfin accès aux mêmes ressources pédagogiques que lui.",
-  "testimonial.2.author": "Lucas M.",
-  "testimonial.2.role": "Autodidacte motivé, 14 ans, Lyon",
+  "testimonial.2.text": "Interdire les VPN ? Mdrrr, vous êtes tous tombés dans le panneau, réfléchissez un peu, aucune démocratie n'oserait faire ça. Du moins, c'est ce que je croyais. Maintenant, j'utilise NOTaVPN.",
+  "testimonial.2.author": "Xavier Niel",
+  "testimonial.2.role": "Citoyen concerné, Paris",
 
-  "testimonial.3.text": "Mon université ne peut pas se payer les abonnements aux revues. J'utilisais un VPN pour accéder aux articles de recherche. Maintenant mon VPN bloque les sites aussi (ordonnance du tribunal, juillet 2025). Avec NOTaVPN, je peux lire la science que mes propres impôts ont financée. L'ironie me nourrit.",
-  "testimonial.3.author": "Dr. Farid B.",
-  "testimonial.3.role": "Chercheur, Université de Strasbourg",
+  "testimonial.3.text": "Mon ami belge peut consulter librement des contenus éducatifs sur le corps humain. Moi, on me demande ma carte d'identité. Grâce à NOTaVPN, j'ai enfin accès aux mêmes ressources pédagogiques que lui.",
+  "testimonial.3.author": "Lucas M.",
+  "testimonial.3.role": "Autodidacte motivé, 14 ans, Lyon",
 
-  "testimonial.4.text": "Grâce à NOTaVPN, je peux enfin accéder à la page Facebook de C'est pas sorcier pour suivre Fred et Jamy avec mes copains. Merci de protéger mon accès à la science !",
-  "testimonial.4.author": "Emma, 9 ans",
-  "testimonial.4.role": "Élève, Nantes",
-
-  "testimonial.5.text": "Interdire les VPN ? Mdrrr, vous êtes tous tombés dans le panneau, réfléchissez un peu, aucune démocratie n'oserait faire ça. Du moins, c'est ce que je croyais. Maintenant, j'utilise NOTaVPN.",
-  "testimonial.5.author": "Xavier Niel",
-  "testimonial.5.role": "Citoyen concerné, Paris",
+  "testimonial.4.text": "Mon université ne peut pas se payer les abonnements aux revues. J'utilisais un VPN pour accéder aux articles de recherche. Maintenant mon VPN bloque les sites aussi (ordonnance du tribunal, juillet 2025). Avec NOTaVPN, je peux lire la science que mes propres impôts ont financée. L'ironie me nourrit.",
+  "testimonial.4.author": "Dr. Farid B.",
+  "testimonial.4.role": "Chercheur, Université de Strasbourg",
 
   "faq.title": "Questions fréquentes",
   "faq.subtitle": "Tout ce que vous n'avez pas osé demander à votre député.",
